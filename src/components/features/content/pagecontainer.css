@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    height: 605px;
+  }
+
+  /* Style the side navigation */
+  .sidenav {
+    height: inherit;
+    width: 205px;
+    position: relative;
+    z-index: 1;
+   
+    background-color: #111;
+    overflow-x: hidden;
+    float: left;
+  }
+  
+  .side-menu{
+    padding-left: 0px;
+  }
+  /* Side navigation links */
+  .sidenav a {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color on hover */
+  .sidenav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Style the content */
+  .content {
+    
+    padding-left: 20px;
+    height: inherit;
+  }

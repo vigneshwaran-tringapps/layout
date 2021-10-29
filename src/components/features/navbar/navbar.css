@@ -1,0 +1,12 @@
+.navigation{
+    
+    background-color: rgb(98, 142, 185);
+    height: 50px;
+    text-align: center;
+    font-size: 23px;
+    justify-content: center;
+  }
+  .nav-menu{
+    display: flex;
+    position: absolute;
+  }

@@ -1,0 +1,9 @@
+.footer-bar{
+    padding-top: 10px;
+    background-color: deepskyblue;
+    height: 50px;
+    text-align: center;
+    font-size: 24px;
+    justify-content: center;
+    float: bottom; 
+  }
